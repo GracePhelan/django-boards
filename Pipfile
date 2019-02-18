@@ -8,6 +8,8 @@ black = "*"
 django = "*"
 django-widget-tweaks = "*"
 markdown = "*"
+python-decouple = "*"
+dj-database-url = "*"
 
 [dev-packages]
 
